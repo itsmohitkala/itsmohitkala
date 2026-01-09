@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Header Image -->
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxjWu3l_wYofcl0ZUTzOXuBIx90HPmYklPMO70AkB3nvKdepqP" width="100%" alt="Header"/>
-
-# Welcome to Mohit's GitHub
-### </>
+<!-- Header with dark gradient background and text -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Mohit's%20GitHub%0A%3C/%3E&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60" width="100%" alt="Header"/>
 
 <br/>
 
@@ -20,6 +17,10 @@
 <div align="center">
 
 ## 👨‍💻 About Me
+
+</div>
+
+<div align="center">
 
 Hello There! I'm **Mohit Kala**, an 18-year-old BCA student and a passionate Web Developer who loves building sleek, functional web applications. I'm constantly curious and always looking for the next challenge in tech.
 

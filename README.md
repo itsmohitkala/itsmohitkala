@@ -36,10 +36,10 @@
 
 Hello There! I'm **Mohit Kala**, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 
-- 🎓 Studying at the **National University of Costa Rica (UNA)**
-- 👨‍🏫 Private tutor in C++ at the University
-- 🏆 Competitor in the **ICPC (2023)**
-- ♟️ Chess Player
+ 🎓 Dav Collage CHD (BCA)
+ 👨‍🏫 Inter @EXpandimo Technologies
+ 🏆 Learning React
+ ♟️ Football Player
 
 </td>
 <td width="40%" align="center">

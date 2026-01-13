@@ -25,24 +25,28 @@
 </p>
 
 </div>
+<br/>
+<br/>
 
+<div align="center">
 
+## <img src="https://img.icons8.com/ios-glyphs/30/ffffff/user--v1.png" width="25"/> About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="About" width="25" height="25" /> About me
+</div>
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="60%">
+<td width="60%" style="border: none;">
 
-Hello There! I'm **Mohit Kala**, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+Hello there! I’m Mohit Kala, a web developer in the making. I love coding and learning new things, and I’m currently learning React and backend languages. Always curious, always building 🚀
 
- 🎓 Dav Collage CHD (BCA)
- 👨‍🏫 Inter @EXpandimo Technologies
- 🏆 Learning React
- ♟️ Football Player
+💼 Internship at Expandimo Technologies <br/>
+🎓 DAV College CHD (BCA) <br/>
+🏆 Learning React <br/>
+⚽ Football Player <br/>
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" style="border: none;">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VzNXE4emlyMmg4cmdrYjVwZ2o4ZTJvZjkydmtneXJ1ZnU3cGVjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHXed39iQn3TrMAZJO/giphy.gif" width="250" alt="Coding"/>
 
@@ -50,72 +54,49 @@ Hello There! I'm **Mohit Kala**, a Systems Engineer student. I enjoy learning ne
 </tr>
 </table>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Technologies" width="25" height="25" /> Technologies
+<br/><br/>
 
 <div align="center">
 
-<!-- Programming Languages -->
+## <img src="https://img.icons8.com/ios-glyphs/30/ffffff/settings.png" width="25"/> Technologies
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS"/>
+</div>
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Statistics" width="25" height="25" /> Statistics
+<br/><br/><br/><br/>
 
 <div align="center">
 
-<!-- GitHub Stats Cards Row -->
-<table>
-<tr>
-<td width="50%">
+## <img src="https://img.icons8.com/ios-glyphs/30/ffffff/combo-chart.png" width="25"/> Statistics
 
-**Mohit's GitHub Stats**
+</div>
 
-| Metric | Count |
-|:-------|------:|
-| ⭐ Total Stars Earned | - |
-| 📝 Total Commits | - |
-| 📁 Total PRs | - |
-| ❗ Total Issues | - |
-| 📅 Contributed to (last year) | - |
+<div align="center">
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsmohitkala&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="GitHub Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmohitkala&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmohitkala&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&custom_title=Ⓒ%20Mohit's%20GitHub%20Stats" width="49%" alt="Mohit's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmohitkala&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="49%" alt="GitHub Streak"/>
 </p>
 
-<!-- Contribution Graph -->
-<h3>Mohit's Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmohitkala&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmohitkala&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -123,7 +104,6 @@ Hello There! I'm **Mohit Kala**, a Systems Engineer student. I enjoy learning ne
 
 <div align="center">
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>

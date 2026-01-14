@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Image -->
-<img src="https://i.pinimg.com/736x/a0/8d/97/a08d971b0f2f0599cfd5478947098846.jpg" width="100%" alt="Hero Banner"/>
+<img src="https://i.pinimg.com/1200x/62/bd/df/62bddf7742933ba9f7277a047f52ea63.jpg" width="100%" alt="Hero Banner"/>
 
 ---
 

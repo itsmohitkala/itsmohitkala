@@ -41,8 +41,8 @@
 Hello there! I’m Mohit Kala, a web developer in the making. I love coding and learning new things, and I’m currently learning React and backend languages. Always curious, always building 🚀
 
 * Full Stack Engineer at Expandimo Technologies <br/>
+* Engineering Officer at TechnoMinds: The IT Club
 * DAV College CHD (BCA) <br/>
-* Learning React <br/>
 *  Football Player <br/>
 
 </td>
